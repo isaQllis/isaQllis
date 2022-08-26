@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! I'm Isaque Lis, here is a bit about me:
 
-<!--
-**isaQllis/isaQllis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At this time I'm studying System Analysis and Development student at IFBA, I'm very exciting about what I've been learning and what is next!
 
-Here are some ideas to get you started:
+I've been working in my first scientific research about DNA sequencing and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Program Languages that I've been studying:
+
+- 🐍 Python (with this librarys: BioPython, Openpyxl, NumPy, Pandas) 
+- 📘 C/C++
+- ☕️ Java
+- 📊 R
+
+#### PLUS PLUS
+
+- ✏️ E-mail: isaqlis@outlook.com
+- 👾 Pronouns: He/Him
