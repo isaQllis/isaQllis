@@ -9,7 +9,6 @@ Curruently I've been working in my first scientific research about DNA sequencin
 
 - 🐍 Python
 - 📘 C/C++
-- ☕️ Java
 - 📊 R
 
 #### PLUS PLUS
