@@ -2,11 +2,11 @@
 
 At this time I'm studying System Analysis and Development student at IFBA, I'm very exciting about what I've been learning and what is next!
 
-I've been working in my first scientific research about DNA sequencing and Data Science.
+Curruently I've been working in my first scientific research about DNA sequencing and Data Science.
 
-#### Program Languages that I've been studying:
+#### Programming Languages that I've been studying:
 
-- 🐍 Python (with this librarys: BioPython, Openpyxl, NumPy, Pandas) 
+- 🐍 Python
 - 📘 C/C++
 - ☕️ Java
 - 📊 R
