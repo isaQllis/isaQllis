@@ -1,6 +1,6 @@
 ## Hello! I'm Isaque Lis, here is a bit about me:
 
-At this time I'm studying System Analysis and Development student at the Federal Institute Of Bahia.
+At this time I'm student of System Analysis and Development at the Federal Institute Of Bahia.
 I'm very exciting about what I've been learning and what is next!
 
 Curruently I've been working in my first scientific research about DNA sequencing and Data Science.
