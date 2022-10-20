@@ -8,8 +8,8 @@ Curruently I've been working in my first scientific research about DNA sequencin
 #### Programming Languages that I've been studying:
 
 - 🐍 Python
-- 📘 C/C++
-- 📊 R
+- ☕️ JAVA
+- 📦 SQL
 
 #### PLUS PLUS
 
