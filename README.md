@@ -7,9 +7,8 @@ Curruently I've been working in my first scientific research in Bioinformatic an
 
 #### Programming Languages that I've been studying:
 
-- 🐍 Python
-- ☕️ JAVA
-- 📦 SQL
+- C
+- JAVA
 
 #### PLUS PLUS
 
