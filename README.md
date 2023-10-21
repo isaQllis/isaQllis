@@ -3,11 +3,6 @@
 At this time I'm student of System Analysis and Development at the Federal Institute Of Bahia.
 I'm very exciting about what I've been learning and what is next!
 
-#### Programming Languages that I've been studying:
-
-- C
-- JAVA
-
 #### PLUS PLUS
 
 - ✏️ Mail: isaquelis.g@gmail.com
